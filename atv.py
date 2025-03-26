@@ -1,5 +1,5 @@
-nome = "Marah"
-idade = "19"
+nome = "Bruno"
+idade = "12"
 poder = "agilidade"
 fraqueza = "sono"
 
